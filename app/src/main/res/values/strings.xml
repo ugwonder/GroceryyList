@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GroceryyList</string>
+    <string name="preview_list">Preview List</string>
+    <string name="grocery_list">Grocery List</string>
+    <string name="make_a_list">Make a list</string>
+    <string name="grocery_list_preview">Grocery List Preview</string>
+    <string name="textview">TextView</string>
+    <string name="email">Email</string>
+    <string name="slack">slack</string>
+    <string name="name">name</string>
+    <string name="share">Share</string>
+    <string name="profile_picture">Profile picture</string>
+    <string name="add_item">Add item</string>
+    <string name="grocery_item">Grocery Item</string>
+    <string name="est_price">Est. Price</string>
+</resources>
